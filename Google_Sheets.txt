@@ -1,0 +1,13 @@
+Google Sheet Notes:
+
+1.Serial Number: CTRL + Drop down the Cursor
+2.Google translate(translate one language to another language)
+3.StockPrize (Find the product price)
+4.Micros
+5.Ctrl + Z - undo
+6.Ctrl + Y - Redo
+7.Column bar chart 
+
+=SPARKLINE(M13,{"charttype","bar";"max",MAX(M:M)})
+
+8.Google Form 
